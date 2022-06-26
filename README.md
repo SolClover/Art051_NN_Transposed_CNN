@@ -5,4 +5,4 @@ Public repository containing materials used in the Transposed Convolutional Neur
 
 Data Source and Licence: http://www.vision.caltech.edu/Image_Datasets/Caltech101/
 
-Article Link: TBC
+Article Link: https://towardsdatascience.com/transposed-convolutional-neural-networks-how-to-increase-the-resolution-of-your-image-d1ec27700c6a
